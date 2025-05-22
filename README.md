@@ -19,9 +19,9 @@ You'll need these programs installed on your computer:
    - Open MySQL Workbench or your MySQL command line
    - Create a new database:
      ```sql
-     CREATE DATABASE garage_management;
+     CREATE DATABASE sims;
      ```
-   - Import the provided `cwsms.sql` file into your database
+   - Import the provided `sims.sql` file into your database
    - If you're not sure how, ask for help or check MySQL's import guide
 
 3. **Set Up the Backend**
